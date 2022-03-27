@@ -11,6 +11,7 @@
   inputs.src-lazyseq-main.ref   = "refs/heads/main";
   inputs.src-lazyseq-main.owner = "markspanbroek";
   inputs.src-lazyseq-main.repo  = "nim-lazyseq";
+  inputs.src-lazyseq-main.dir   = "";
   inputs.src-lazyseq-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
