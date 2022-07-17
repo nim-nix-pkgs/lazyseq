@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1657153025,
-        "narHash": "sha256-AqSiMnJkQSAqZT++7KrSCXbnOyEYw2C6Xr2+OzCjknM=",
+        "lastModified": 1658018004,
+        "narHash": "sha256-srJNHt8advtSj/uTcryPEwqoBtSap897DLMGu+nXIJQ=",
         "owner": "nim-nix-pkgs",
         "repo": "lazyseq",
-        "rev": "67571ae97e4f22f543a1cb8c7ae44fc9c5817065",
+        "rev": "70ef4086c509b747e42c0988f77bb950f97d0359",
         "type": "github"
       },
       "original": {
